@@ -32,3 +32,6 @@ lists top albums, top tracks and top artists as different sections.
             displays the details about the genre, similar to the flow in the first
             screen.
             ■ Clicking on the album shows its information.
+ 
+#### Note-: An assumption is made in the app that "tag" in the lastfm api stands for "genre" has no specific API endpoint for genre is present in the lastfm api website.
+    
