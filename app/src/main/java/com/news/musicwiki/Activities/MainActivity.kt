@@ -41,8 +41,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     //Attach adapters to recyclerview
     private fun setupUI() {
         recyclerView.layoutManager = GridLayoutManager(this, 3, GridLayoutManager.VERTICAL, false)
-        // Display only 12 items instead of the total size initially (4x3)
-        genreAdapterLess = GenreAdapter(arrayListOf(), 12)
+        // Display only 10 items instead of the total size initially (4x3)
+        genreAdapterLess = GenreAdapter(arrayListOf(), 10)
         // Display all the items by passing -1 as argument(Logic in Adapter Class)
         genreAdapterMore = GenreAdapter(arrayListOf(), -1)
         recyclerView.adapter = genreAdapterLess
