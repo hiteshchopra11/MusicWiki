@@ -8,12 +8,14 @@ regarding it. It contains genre as the title and also has a description of the g
 lists top albums, top tracks and top artists as different sections.
 
 
-○ Each item listed under the album has the cover image if available or a
-default image, the title and artist.
-○ Each item listed under the artists,has the cover image, if available or a
-default image and the name
-○ Each item listed under tracks has the cover image if available or a
-default image, the title and artist name.
+            ○ Each item listed under the album has the cover image if available or a
+            default image, the title and artist.
+            
+            ○ Each item listed under the artists,has the cover image, if available or a
+            default image and the name
+            
+            ○ Each item listed under tracks has the cover image if available or a
+            default image, the title and artist name.
 
 ● Clicking on the item
 
