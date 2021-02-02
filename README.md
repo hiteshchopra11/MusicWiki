@@ -14,12 +14,15 @@ default image and the name
 default image, the title and artist name.
 
 ● Clicking on the item
+
 ○ Albums
+
 ■ It displays the cover image, title and the artist information. It
 also contains the description and the genres. Clicking on the genre it
 displays the details about the genre, similar to the flow in the first screen.
 
 ○ Artists
+
 ■ It displays the image, title ,play count and followers, description, a
 list of top tracks and top albums and the genres. Clicking on the genre it
 displays the details about the genre, similar to the flow in the first
